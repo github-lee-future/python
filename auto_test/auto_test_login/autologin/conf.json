@@ -1,0 +1,6 @@
+{
+  "webdriver": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe",
+  "url": "http://localhost:8080",
+  "username": "admin@qq.com",
+  "password": "123456"
+}
